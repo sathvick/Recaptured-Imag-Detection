@@ -1,1 +1,1 @@
-# Recaptured-Imag-Detection
+# Recaptured-Image-Detection
